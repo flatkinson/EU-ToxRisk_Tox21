@@ -1,3 +1,9 @@
+# 
+# Common imports etc. for notebooks
+# 
+# Note that this file is not to be imported, but to be run at the top of the notebook using '%run setup.py'
+# 
+
 import warnings
 import logging
 import os
@@ -14,7 +20,7 @@ from ipywidgets import HTML
 from rdkit import Chem
 from rdkit.Chem import Draw, PandasTools
 from rdkit.Chem.Draw import IPythonConsole
-IPythonConsole.molSize = (450, 200)
 PandasTools.RenderImagesInAllDataFrames()
+IPythonConsole.molSize = (450, 200)
 
 import make_logger
