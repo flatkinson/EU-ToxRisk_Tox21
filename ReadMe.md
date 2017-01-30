@@ -21,4 +21,6 @@ The notebook `3_Tox21_compounds_vs_case_study_compounds.ipynb` requires a connec
 
 Some of the notebooks can take a while to run, so, for convenience, the complete DataWarrior visualization file `tox21_data_for_eu-toxrisk.dwar` is available _via_ [DropBox](https://www.dropbox.com/sh/0iwk0ho59exhgkw/AABWLxsruT2huFpxvY-Ju77Pa?dl=0).
 
+Note that this is a work in progress, so things may change. For example, it has been suggested taht some Tox21 assays may be of lesser utility than others and could thus be excluded or hidden by default. I have not yet looked into this, but will do so as time allows.
+
 Note that the notebooks are based on preliminary work by Patricia Bento (patricia@ebi.ac.uk); the case study compound information was compiled by Anne Hersey (ahersey@ebi.ac.uk). Please address any comments or suggestions to me (francis@ebi.ac.uk).
