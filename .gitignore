@@ -1,4 +1,6 @@
-data/*.pkl
-data/tox21_data_for_visualization.csv
-
+# Database connectivity details...
 chembl.py
+
+# Scratch notebooks...
+Untitled*.ipynb
+scratch*.ipynb

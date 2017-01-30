@@ -1,5 +1,5 @@
 # 
-# Common imports etc. for notebooks
+# Common setup for notebooks
 # 
 # Note that this file is not to be imported, but to be run at the top of the notebook using '%run setup.py'
 # 
