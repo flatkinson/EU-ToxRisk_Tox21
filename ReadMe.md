@@ -23,4 +23,4 @@ Some of the notebooks can take a while to run, so, for convenience, the complete
 
 Note that this is a work in progress, so things may change. For example, it has been suggested taht some Tox21 assays may be of lesser utility than others and could thus be excluded or hidden by default. I have not yet looked into this, but will do so as time allows.
 
-Note that the notebooks are based on preliminary work by Patricia Bento (patricia@ebi.ac.uk); the case study compound information was compiled by Anne Hersey (ahersey@ebi.ac.uk). Please address any comments or suggestions to me (francis@ebi.ac.uk).
+This project is based on preliminary work by Patricia Bento (patricia@ebi.ac.uk); the case study compound information was compiled by Anne Hersey (ahersey@ebi.ac.uk). Please address any comments or suggestions to me (francis@ebi.ac.uk).
